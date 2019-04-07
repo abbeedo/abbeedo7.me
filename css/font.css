@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "az";
+    src: url('font/az.ttf');
+}
+
+@font-face {
+    font-family: "ArabicFont";
+    src: url('font/arabic.ttf');
+}
+@font-face {
+    font-family: "ArabicLightFont";
+    src: url('font/arabic-light.ttf');
+}
+@font-face {
+    font-family: "RalewayFont";
+    src: url('font/raleway.ttf');
+}
+@font-face {
+    font-family: "RalewayLightFont";
+    src: url('font/raleway-light.ttf');
+}
+@font-face {
+    font-family: "Ribeat Regular";
+    src: url('font/Ribeat Regular.otf');
+}
+@font-face {
+    font-family: "rsail-bold";
+    src: url('font/rsail-bold.ttf');
+}
+@font-face {
+    font-family: "Sukar Black";
+    src: url('font/Sukar Black.ttf');
+}
+
+@font-face {
+    font-family: "Sukar Bold";
+    src: url('font/Sukar Bold.ttf');
+}
+
+@font-face {
+    font-family: "Sukar Regular";
+    src: url('font/Sukar Regular.ttf');
+}
+
